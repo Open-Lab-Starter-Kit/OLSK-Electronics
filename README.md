@@ -56,6 +56,18 @@ Inductive sensor converter board used in **[OLSK Small CNC V1](https://github.co
 Converter board used in **[OLSK Small Laser V1](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/tree/main/OLSK_Small_Laser_V1)**.
 
 <img src="media/all.png" width="30%"> 
-<br><br><br>
+<br><br><be>
+
+License
+--
+
+Hardware design, CAD and PCB files, BOM, settings and other technical or design files are released under the following license:
+
+- CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](LICENSE_CERN_OHL_W_V2.txt)**
+
+Assembly manual, pictures, videos, presentations, description text and other type of media are released under the following license:
+
+- Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
+
 
 
