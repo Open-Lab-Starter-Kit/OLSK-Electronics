@@ -7,8 +7,8 @@
 int main(){
   
   DDRB = (1<<DDB4);
-  PORTB = (1<<PB4);
-  _delay_ms(DELAY_TIME);
   PORTB = (0<<PB4);
+  _delay_ms(DELAY_TIME);
+  PORTB = (1<<PB4);
   
 }
