@@ -29,7 +29,7 @@ Main board used in **[OLSK Large CNC V1](https://github.com/Open-Lab-Starter-Kit
 
 **[OLSK Laser Controller Shield V1.0](Laser_Controller_Shield_V1-0)**
 
-Main board used in **[OLSK Large Laser V1](https://github.com/Open-Lab-Starter-Kit/OLSK-Large-Laser)** and **[OLSK Large Laser V1](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser)**.
+Main board used in **[OLSK Large Laser V1](https://github.com/Open-Lab-Starter-Kit/OLSK-Large-Laser)** and **[OLSK Small Laser V2](https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser)**.
 
 <img src="media/Laser_Controller_Shield_V1-0.jpg" width="30%"> 
 <br><br><br>
